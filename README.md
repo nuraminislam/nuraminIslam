@@ -39,6 +39,11 @@ I am a **Systems Architect** and **Technical Founder** operating at the intersec
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nuraminislam&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📡 Connect & Collaborate
 Let's discuss systems, architecture, or the future of AI-driven development.
 
@@ -51,7 +56,3 @@ Let's discuss systems, architecture, or the future of AI-driven development.
 
 ---
 *Architecture and logic over syntax. Generated for high-level engineering.*
-
-<!-- badge sync test 1 -->
-
-<!-- badge sync test 2 -->
