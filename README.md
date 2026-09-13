@@ -51,3 +51,5 @@ Let's discuss systems, architecture, or the future of AI-driven development.
 
 ---
 *Architecture and logic over syntax. Generated for high-level engineering.*
+
+<!-- badge sync test 1 -->
